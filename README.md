@@ -24,7 +24,7 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/apple-181717.svg?&style=for-the-badge&logo=apple&logoColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/CHIP-Pro--2023-181717?labelColor=0091BD&style=for-the-badge&logo=Arm&logoColor=white&logoWidth=20" alt="Arm" />
+  <img src="https://img.shields.io/badge/CHIP-M2Max--2023-181717?labelColor=0091BD&style=for-the-badge&logo=Arm&logoColor=white&logoWidth=20" alt="Arm" />
   <img src="https://img.shields.io/badge/RAM-96GB-181717.svg?&style=for-the-badge&logoColor=white" alt="RAM"/>
   <img src="https://img.shields.io/badge/SSD-1TB-181717.svg?&style=for-the-badge" alt="SSD"/>
   <img src="https://img.shields.io/badge/Display-16%22-181717.svg?&style=for-the-badge" alt="Display"/>
