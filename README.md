@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hey 👋 I'm Ricardo 👨‍💻
+  Hey 👋🏻 I'm Ricardo 🎙️👨🏻‍💻
 </h1>
 
 <p align="center">
