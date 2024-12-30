@@ -7,14 +7,14 @@
   A Grammy winning audio engineer, turned data professional located in Spain. 
 </p>
 
+<p align='center'>
+  📫 You can reach me here: <a href='mailto:rquinterog93@gmail.com'>rquinterog93@gmail.com</a>
+</p>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/rquintero93">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align='center'>
-  📫 You can reach me here: <a href='mailto:rquinterog93@gmail.com'>rquinterog93@gmail.com</a>
 </p>
 
 ---
